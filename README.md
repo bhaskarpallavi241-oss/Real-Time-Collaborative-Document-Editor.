@@ -48,6 +48,8 @@ How It Works:
 
 OUTPUT:
 
+<img width="1361" height="648" alt="Image" src="https://github.com/user-attachments/assets/60bbfecf-4f71-4a72-afec-197c8c384c71" />
+
 
 AUTHOR:
 
